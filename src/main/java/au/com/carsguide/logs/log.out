@@ -1,0 +1,723 @@
+2024-12-19 20:12:855 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 20:12:407 INFO  HomePage :37 - verifying homepage url.
+2024-12-19 20:12:679 INFO  HomePage :46 - hover mouse to menu bar.
+2024-12-19 20:12:572 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 20:12:489 INFO  HomePage :37 - verifying homepage url.
+2024-12-19 20:12:751 INFO  HomePage :46 - hover mouse to menu bar.
+2024-12-19 20:12:826 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:71 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:36 INFO  HomePage :37 - verifying homepage url.
+2024-12-19 21:12:396 INFO  HomePage :46 - hover mouse to menu bar.
+2024-12-19 21:12:174 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:125 INFO  HomePage :37 - verifying homepage url.
+2024-12-19 21:12:314 INFO  HomePage :46 - hover mouse to menu bar.
+2024-12-19 21:12:170 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:139 INFO  HomePage :37 - verifying homepage url.
+2024-12-19 21:12:365 INFO  HomePage :46 - hover mouse to menu bar.
+2024-12-19 21:12:168 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:226 INFO  HomePage :37 - verifying homepage url.
+2024-12-19 21:12:512 INFO  HomePage :46 - hover mouse to menu bar.
+2024-12-19 21:12:650 INFO  HomePage :59 - hover to submenu and click on element.
+2024-12-19 21:12:924 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:807 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:936 INFO  HomePage :37 - verifying homepage url.
+2024-12-19 21:12:349 INFO  HomePage :46 - hover mouse to menu bar.
+2024-12-19 21:12:206 INFO  HomePage :59 - hover to submenu and click on element.
+2024-12-19 21:12:256 INFO  SearchCarsPage :48 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:463 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:83 INFO  HomePage :37 - verifying homepage url.
+2024-12-19 21:12:304 INFO  HomePage :46 - hover mouse to menu bar.
+2024-12-19 21:12:357 INFO  HomePage :59 - hover to submenu and click on element.
+2024-12-19 21:12:391 INFO  SearchCarsPage :52 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:409 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:171 INFO  HomePage :37 - verifying homepage url.
+2024-12-19 21:12:439 INFO  HomePage :46 - hover mouse to menu bar.
+2024-12-19 21:12:783 INFO  HomePage :59 - hover to submenu and click on element.
+2024-12-19 21:12:829 INFO  SearchCarsPage :52 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:493 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:630 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:920 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:423 INFO  HomePage :65 - hover to submenu and click on element.
+2024-12-19 21:12:815 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:661 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:907 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:325 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:619 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:205 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:812 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:95 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:630 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:875 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:07 INFO  SearchCarsPage :53 - select make: 'BMW'
+2024-12-19 21:12:666 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:233 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:539 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:819 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:113 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:684 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:977 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:807 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:54 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:256 INFO  SearchCarsPage :54 - select make: 'BMW'
+2024-12-19 21:12:220 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:106 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:505 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:468 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:504 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:633 INFO  SearchCarsPage :53 - select make: 'BMW'
+2024-12-19 21:12:518 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:737 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:72 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:286 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:687 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:953 INFO  SearchCarsPage :53 - select make: 'BMW'
+2024-12-19 21:12:370 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:23 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:286 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:95 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:325 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:501 INFO  SearchCarsPage :53 - select make: 'BMW'
+2024-12-19 21:12:751 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:238 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:433 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:749 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:944 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:626 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:951 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:797 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:229 INFO  SearchCarsPage :48 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:343 INFO  SearchCarsPage :54 - select make: 'BMW'
+2024-12-19 21:12:704 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:764 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:45 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:746 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:36 INFO  SearchCarsPage :48 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:170 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-19 21:12:513 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:750 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:76 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:647 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:704 INFO  SearchCarsPage :48 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:571 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:863 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:242 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:447 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:485 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:579 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 21:12:879 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:878 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:125 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:539 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:609 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:323 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 21:12:664 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:492 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:701 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:439 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:475 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:606 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 21:12:791 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:731 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:931 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:847 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:241 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars'
+2024-12-19 21:12:348 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 21:12:994 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 21:12:428 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 21:12:714 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 21:12:844 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 21:12:57 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars For Sale'
+2024-12-19 21:12:177 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 22:12:831 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:101 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:343 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:240 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:423 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars For Sale'
+2024-12-19 22:12:554 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 22:12:697 INFO  SearchCarsPage :70 - select model: '3.0'
+2024-12-19 22:12:775 INFO  SearchCarsPage :75 - select location: 'Queensland'
+2024-12-19 22:12:857 INFO  SearchCarsPage :80 - select priceTo: '50000'
+2024-12-19 22:12:872 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:353 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:607 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:389 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:457 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars For Sale'
+2024-12-19 22:12:583 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 22:12:692 INFO  SearchCarsPage :70 - select model: '3.0'
+2024-12-19 22:12:791 INFO  SearchCarsPage :75 - select location: 'Queensland'
+2024-12-19 22:12:391 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:353 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:551 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:955 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:267 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars For Sale'
+2024-12-19 22:12:424 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 22:12:611 INFO  SearchCarsPage :70 - select model: '3.0'
+2024-12-19 22:12:744 INFO  SearchCarsPage :75 - select location: 'Queensland'
+2024-12-19 22:12:42 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:137 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:414 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:204 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:987 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:178 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 22:12:142 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:176 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:455 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:755 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:861 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:334 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 22:12:432 INFO  SearchCarsPage :70 - select model: '3.0'
+2024-12-19 22:12:514 INFO  SearchCarsPage :75 - select location: 'Queensland'
+2024-12-19 22:12:608 INFO  SearchCarsPage :80 - select priceTo: '$5,000'
+2024-12-19 22:12:236 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:331 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:537 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:601 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:821 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:02 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 22:12:40 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:391 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:637 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:859 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:164 INFO  SearchCarsPage :49 - Verifying heading text. 'Used Cars For Sale'
+2024-12-19 22:12:357 INFO  SearchCarsPage :55 - select make: 'BMW'
+2024-12-19 22:12:488 INFO  SearchCarsPage :70 - select model: '3.0'
+2024-12-19 22:12:583 INFO  SearchCarsPage :75 - select location: 'Queensland'
+2024-12-19 22:12:674 INFO  SearchCarsPage :80 - select priceTo: '$5,000'
+2024-12-19 22:12:64 INFO  SearchCarsPage :85 - clicking on Find my next car button. 
+2024-12-19 22:12:10 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:742 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:953 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:379 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:418 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:527 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-19 22:12:480 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:933 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:204 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:553 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:605 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:793 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-19 22:12:807 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:756 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:122 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:586 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:03 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:129 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-19 22:12:97 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:119 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:403 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:820 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:865 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:949 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-19 22:12:840 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:251 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:482 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:370 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:570 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:782 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-19 22:12:688 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:823 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:71 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:793 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:832 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:925 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-19 22:12:857 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:86 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:302 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:319 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:710 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:843 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-19 22:12:958 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:900 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:87 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:479 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:517 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:605 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-19 22:12:04 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-19 22:12:700 INFO  HomePage :38 - verifying homepage url.
+2024-12-19 22:12:986 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-19 22:12:392 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-19 22:12:428 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-19 22:12:519 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:623 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:868 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:171 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:536 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:658 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:764 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:445 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:551 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:797 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:378 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:472 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:580 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:715 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:899 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:60 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:112 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:202 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:15 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:237 INFO  SearchCarsPage :75 - select model: '3.0'
+2024-12-20 12:12:318 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:400 INFO  SearchCarsPage :85 - select priceMin: '$5,000'
+2024-12-20 12:12:472 INFO  SearchCarsPage :85 - select priceMin: '$50,000'
+2024-12-20 12:12:781 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:251 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:136 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:312 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:774 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:855 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:989 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:203 INFO  SearchCarsPage :75 - select model: '3.0'
+2024-12-20 12:12:289 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:401 INFO  SearchCarsPage :85 - select priceMin: '$5,000'
+2024-12-20 12:12:514 INFO  SearchCarsPage :85 - select priceMin: '$50,000'
+2024-12-20 12:12:759 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:565 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:240 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:507 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:333 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:372 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:708 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:797 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:868 INFO  SearchCarsPage :85 - select priceMin: '$5,000'
+2024-12-20 12:12:928 INFO  SearchCarsPage :85 - select priceMin: '$50,000'
+2024-12-20 12:12:194 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:272 INFO  SearchCarsResultPage :42 - actual result: '61 bmws for sale in qld'
+2024-12-20 12:12:273 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'BMW'
+2024-12-20 12:12:21 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:902 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:175 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:58 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:132 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:287 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:385 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:478 INFO  SearchCarsPage :85 - select priceMin: '$5,000'
+2024-12-20 12:12:567 INFO  SearchCarsPage :85 - select priceMin: '$50,000'
+2024-12-20 12:12:924 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:849 INFO  SearchCarsResultPage :42 - actual result: '61 bmws for sale in qld'
+2024-12-20 12:12:849 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'BMW'
+2024-12-20 12:12:527 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:905 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:189 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:837 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:935 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:96 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:200 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:278 INFO  SearchCarsPage :85 - select priceMin: '$5,000'
+2024-12-20 12:12:412 INFO  SearchCarsPage :90 - select priceMax: '$50,000'
+2024-12-20 12:12:761 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:754 INFO  SearchCarsResultPage :42 - actual result: '224 bmws for sale in qld'
+2024-12-20 12:12:754 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'BMW'
+2024-12-20 12:12:451 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:701 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:965 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:284 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:374 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:107 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:306 INFO  SearchCarsPage :75 - select model: '3.0'
+2024-12-20 12:12:392 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:502 INFO  SearchCarsPage :85 - select priceMin: '$5,000'
+2024-12-20 12:12:591 INFO  SearchCarsPage :90 - select priceMax: '$50,000'
+2024-12-20 12:12:854 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:991 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:502 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:774 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:694 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:783 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:925 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:25 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:618 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:801 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:222 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:300 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:455 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:585 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:685 INFO  SearchCarsPage :85 - select priceMin: '$5,000'
+2024-12-20 12:12:806 INFO  SearchCarsPage :90 - select priceMax: '$50,000'
+2024-12-20 12:12:74 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:51 INFO  SearchCarsResultPage :42 - actual result: '224 bmws for sale in qld'
+2024-12-20 12:12:53 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'BMW'
+2024-12-20 12:12:03 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:554 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:842 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:814 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:858 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:302 INFO  SearchCarsPage :59 - select make: 'Audi'
+2024-12-20 12:12:919 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:271 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:491 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:821 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:885 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:351 INFO  SearchCarsPage :59 - select make: 'Hyundai'
+2024-12-20 12:12:928 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:730 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:247 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:382 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:525 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:666 INFO  SearchCarsPage :59 - select make: 'Mitsubishi'
+2024-12-20 12:12:285 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:139 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:382 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:352 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:473 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:670 INFO  SearchCarsPage :59 - select make: 'Honda'
+2024-12-20 12:12:699 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:561 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:877 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:649 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:714 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:858 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:952 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:43 INFO  SearchCarsPage :85 - select priceMin: '$5,000'
+2024-12-20 12:12:163 INFO  SearchCarsPage :90 - select priceMax: '$50,000'
+2024-12-20 12:12:485 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:905 INFO  SearchCarsResultPage :42 - actual result: '224 bmws for sale in qld'
+2024-12-20 12:12:906 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'BMW'
+2024-12-20 12:12:327 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:733 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:892 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:607 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:685 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:774 INFO  SearchCarsPage :59 - select make: 'Audi'
+2024-12-20 12:12:891 INFO  SearchCarsPage :80 - select location: 'New South Wales'
+2024-12-20 12:12:975 INFO  SearchCarsPage :85 - select priceMin: '$10,000'
+2024-12-20 12:12:46 INFO  SearchCarsPage :90 - select priceMax: '$60,000'
+2024-12-20 12:12:306 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:62 INFO  SearchCarsResultPage :42 - actual result: '14,028 cars for sale in nsw'
+2024-12-20 12:12:536 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:593 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:798 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:489 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:566 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:746 INFO  SearchCarsPage :59 - select make: 'Hyundai'
+2024-12-20 12:12:844 INFO  SearchCarsPage :80 - select location: 'South Australia'
+2024-12-20 12:12:911 INFO  SearchCarsPage :85 - select priceMin: '$15,000'
+2024-12-20 12:12:981 INFO  SearchCarsPage :90 - select priceMax: '$70,000'
+2024-12-20 12:12:203 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:970 INFO  SearchCarsResultPage :42 - actual result: '3,617 cars for sale in sa'
+2024-12-20 12:12:459 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:44 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:320 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:585 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:675 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:129 INFO  SearchCarsPage :59 - select make: 'Mitsubishi'
+2024-12-20 12:12:236 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:308 INFO  SearchCarsPage :85 - select priceMin: '$20,000'
+2024-12-20 12:12:376 INFO  SearchCarsPage :90 - select priceMax: '$80,000'
+2024-12-20 12:12:596 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:938 INFO  SearchCarsResultPage :42 - actual result: '7,453 cars for sale in qld'
+2024-12-20 12:12:511 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:916 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:82 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:420 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:496 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:505 INFO  SearchCarsPage :59 - select make: 'Honda'
+2024-12-20 12:12:644 INFO  SearchCarsPage :80 - select location: 'Western Australia'
+2024-12-20 12:12:775 INFO  SearchCarsPage :85 - select priceMin: '$25,000'
+2024-12-20 12:12:886 INFO  SearchCarsPage :90 - select priceMax: '$90,000'
+2024-12-20 12:12:263 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:997 INFO  SearchCarsResultPage :42 - actual result: '51 hondas for sale in wa'
+2024-12-20 12:12:997 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Honda'
+2024-12-20 12:12:407 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:235 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:500 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:905 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:954 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:578 INFO  SearchCarsPage :59 - select make: 'Audi'
+2024-12-20 12:12:673 INFO  SearchCarsPage :80 - select location: 'New South Wales'
+2024-12-20 12:12:768 INFO  SearchCarsPage :85 - select priceMin: '$10,000'
+2024-12-20 12:12:852 INFO  SearchCarsPage :90 - select priceMax: '$60,000'
+2024-12-20 12:12:90 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:153 INFO  SearchCarsResultPage :42 - actual result: '397 audis for sale in nsw'
+2024-12-20 12:12:154 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Audi'
+2024-12-20 12:12:105 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:794 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:66 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:718 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:795 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:885 INFO  SearchCarsPage :59 - select make: 'Hyundai'
+2024-12-20 12:12:971 INFO  SearchCarsPage :80 - select location: 'South Australia'
+2024-12-20 12:12:50 INFO  SearchCarsPage :85 - select priceMin: '$15,000'
+2024-12-20 12:12:116 INFO  SearchCarsPage :90 - select priceMax: '$70,000'
+2024-12-20 12:12:352 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:410 INFO  SearchCarsResultPage :42 - actual result: '3,617 cars for sale in sa'
+2024-12-20 12:12:987 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:634 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:824 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:473 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:660 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:771 INFO  SearchCarsPage :59 - select make: 'Mitsubishi'
+2024-12-20 12:12:893 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:09 INFO  SearchCarsPage :85 - select priceMin: '$20,000'
+2024-12-20 12:12:103 INFO  SearchCarsPage :90 - select priceMax: '$80,000'
+2024-12-20 12:12:385 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:439 INFO  SearchCarsResultPage :42 - actual result: '590 mitsubishis for sale in qld'
+2024-12-20 12:12:439 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Mitsubishi'
+2024-12-20 12:12:257 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:980 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:280 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:239 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:353 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:562 INFO  SearchCarsPage :59 - select make: 'Hyundai'
+2024-12-20 12:12:681 INFO  SearchCarsPage :80 - select location: 'South Australia'
+2024-12-20 12:12:833 INFO  SearchCarsPage :85 - select priceMin: '$15,000'
+2024-12-20 12:12:923 INFO  SearchCarsPage :90 - select priceMax: '$70,000'
+2024-12-20 12:12:189 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:247 INFO  SearchCarsResultPage :42 - actual result: '341 hyundais for sale in sa'
+2024-12-20 12:12:248 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Hyundai'
+2024-12-20 12:12:103 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:103 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:325 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:179 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:223 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:485 INFO  SearchCarsPage :59 - select make: 'Hyundai'
+2024-12-20 12:12:584 INFO  SearchCarsPage :80 - select location: 'South Australia'
+2024-12-20 12:12:682 INFO  SearchCarsPage :85 - select priceMin: '$15,000'
+2024-12-20 12:12:768 INFO  SearchCarsPage :90 - select priceMax: '$70,000'
+2024-12-20 12:12:17 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:94 INFO  SearchCarsResultPage :42 - actual result: '341 hyundais for sale in sa'
+2024-12-20 12:12:95 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Hyundai'
+2024-12-20 12:12:837 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:120 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:328 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:600 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:666 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:58 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 12:12:238 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:340 INFO  SearchCarsPage :85 - select priceMin: '$5,000'
+2024-12-20 12:12:441 INFO  SearchCarsPage :90 - select priceMax: '$50,000'
+2024-12-20 12:12:739 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:822 INFO  SearchCarsResultPage :42 - actual result: '224 bmws for sale in qld'
+2024-12-20 12:12:822 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'BMW'
+2024-12-20 12:12:163 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:521 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:795 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:121 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:178 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars For Sale'
+2024-12-20 12:12:316 INFO  SearchCarsPage :59 - select make: 'Audi'
+2024-12-20 12:12:441 INFO  SearchCarsPage :80 - select location: 'New South Wales'
+2024-12-20 12:12:570 INFO  SearchCarsPage :85 - select priceMin: '$10,000'
+2024-12-20 12:12:691 INFO  SearchCarsPage :90 - select priceMax: '$60,000'
+2024-12-20 12:12:97 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:159 INFO  SearchCarsResultPage :42 - actual result: '397 audis for sale in nsw'
+2024-12-20 12:12:160 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Audi'
+2024-12-20 12:12:477 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:02 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:186 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:535 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:583 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:132 INFO  SearchCarsPage :59 - select make: 'Hyundai'
+2024-12-20 12:12:230 INFO  SearchCarsPage :80 - select location: 'South Australia'
+2024-12-20 12:12:307 INFO  SearchCarsPage :85 - select priceMin: '$15,000'
+2024-12-20 12:12:389 INFO  SearchCarsPage :90 - select priceMax: '$70,000'
+2024-12-20 12:12:647 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:714 INFO  SearchCarsResultPage :42 - actual result: '3,617 cars for sale in sa'
+2024-12-20 12:12:349 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:06 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:174 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:48 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:102 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:189 INFO  SearchCarsPage :59 - select make: 'Mitsubishi'
+2024-12-20 12:12:296 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:375 INFO  SearchCarsPage :85 - select priceMin: '$20,000'
+2024-12-20 12:12:449 INFO  SearchCarsPage :90 - select priceMax: '$80,000'
+2024-12-20 12:12:702 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:770 INFO  SearchCarsResultPage :42 - actual result: '7,453 cars for sale in qld'
+2024-12-20 12:12:396 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:322 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:503 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:830 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:255 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:392 INFO  SearchCarsPage :59 - select make: 'Honda'
+2024-12-20 12:12:504 INFO  SearchCarsPage :80 - select location: 'Western Australia'
+2024-12-20 12:12:625 INFO  SearchCarsPage :85 - select priceMin: '$25,000'
+2024-12-20 12:12:703 INFO  SearchCarsPage :90 - select priceMax: '$90,000'
+2024-12-20 12:12:03 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:56 INFO  SearchCarsResultPage :42 - actual result: '51 hondas for sale in wa'
+2024-12-20 12:12:57 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Honda'
+2024-12-20 12:12:421 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:83 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:371 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:733 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:815 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:674 INFO  SearchCarsPage :59 - select make: 'Hyundai'
+2024-12-20 12:12:802 INFO  SearchCarsPage :80 - select location: 'South Australia'
+2024-12-20 12:12:894 INFO  SearchCarsPage :85 - select priceMin: '$15,000'
+2024-12-20 12:12:973 INFO  SearchCarsPage :90 - select priceMax: '$70,000'
+2024-12-20 12:12:267 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:333 INFO  SearchCarsResultPage :42 - actual result: '341 hyundais for sale in sa'
+2024-12-20 12:12:335 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Hyundai'
+2024-12-20 12:12:678 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 12:12:509 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 12:12:785 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 12:12:577 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 12:12:686 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 12:12:773 INFO  SearchCarsPage :59 - select make: 'Mitsubishi'
+2024-12-20 12:12:872 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 12:12:957 INFO  SearchCarsPage :85 - select priceMin: '$20,000'
+2024-12-20 12:12:45 INFO  SearchCarsPage :90 - select priceMax: '$80,000'
+2024-12-20 12:12:301 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 12:12:375 INFO  SearchCarsResultPage :42 - actual result: '7,453 cars for sale in qld'
+2024-12-20 13:12:815 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:915 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:198 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:512 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:648 INFO  SearchCarsPage :53 - Verifying heading text. 'Used Cars'
+2024-12-20 13:12:125 INFO  SearchCarsPage :59 - select make: 'Mitsubishi'
+2024-12-20 13:12:247 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 13:12:347 INFO  SearchCarsPage :85 - select priceMin: '$20,000'
+2024-12-20 13:12:422 INFO  SearchCarsPage :90 - select priceMax: '$80,000'
+2024-12-20 13:12:673 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 13:12:753 INFO  SearchCarsResultPage :42 - actual result: '590 mitsubishis for sale in qld'
+2024-12-20 13:12:754 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Mitsubishi'
+2024-12-20 13:12:228 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:62 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:357 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:279 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:359 INFO  SearchCarsPage :53 - Verifying heading text. 'New Cars For Sale'
+2024-12-20 13:12:689 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 13:12:397 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:966 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:236 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:611 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:887 INFO  SearchCarsPage :53 - Verifying heading text. 'New Cars For Sale'
+2024-12-20 13:12:07 INFO  SearchCarsPage :59 - select make: 'Audi'
+2024-12-20 13:12:228 INFO  SearchCarsPage :75 - select model: 'A5'
+2024-12-20 13:12:320 INFO  SearchCarsPage :80 - select location: 'New South Wales'
+2024-12-20 13:12:399 INFO  SearchCarsPage :85 - select priceMin: '$10,000'
+2024-12-20 13:12:529 INFO  SearchCarsPage :90 - select priceMax: '$60,000'
+2024-12-20 13:12:551 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:417 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:697 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:729 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:809 INFO  SearchCarsPage :53 - Verifying heading text. 'New Cars'
+2024-12-20 13:12:229 INFO  SearchCarsPage :59 - select make: 'Audi'
+2024-12-20 13:12:449 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:498 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:712 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:409 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:822 INFO  SearchCarsPage :53 - Verifying heading text. 'New Cars For Sale'
+2024-12-20 13:12:15 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 13:12:809 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:247 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:429 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:985 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:52 INFO  SearchCarsPage :53 - Verifying heading text. 'New Cars For Sale'
+2024-12-20 13:12:179 INFO  SearchCarsPage :59 - select make: 'BMW'
+2024-12-20 13:12:285 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 13:12:365 INFO  SearchCarsPage :85 - select priceMin: '$5,000'
+2024-12-20 13:12:438 INFO  SearchCarsPage :90 - select priceMax: '$50,000'
+2024-12-20 13:12:699 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 13:12:314 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:775 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:946 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:926 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:08 INFO  SearchCarsPage :53 - Verifying heading text. 'New Cars For Sale'
+2024-12-20 13:12:111 INFO  SearchCarsPage :59 - select make: 'Audi'
+2024-12-20 13:12:215 INFO  SearchCarsPage :80 - select location: 'New South Wales'
+2024-12-20 13:12:303 INFO  SearchCarsPage :85 - select priceMin: '$10,000'
+2024-12-20 13:12:406 INFO  SearchCarsPage :90 - select priceMax: '$60,000'
+2024-12-20 13:12:781 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 13:12:843 INFO  SearchCarsResultPage :42 - actual result: '84 audis for sale in nsw'
+2024-12-20 13:12:844 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Audi'
+2024-12-20 13:12:158 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:893 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:220 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:642 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:740 INFO  SearchCarsPage :53 - Verifying heading text. 'New Cars'
+2024-12-20 13:12:824 INFO  SearchCarsPage :59 - select make: 'Hyundai'
+2024-12-20 13:12:915 INFO  SearchCarsPage :80 - select location: 'South Australia'
+2024-12-20 13:12:00 INFO  SearchCarsPage :85 - select priceMin: '$15,000'
+2024-12-20 13:12:73 INFO  SearchCarsPage :90 - select priceMax: '$70,000'
+2024-12-20 13:12:312 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 13:12:391 INFO  SearchCarsResultPage :42 - actual result: '371 hyundais for sale in sa'
+2024-12-20 13:12:391 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Hyundai'
+2024-12-20 13:12:716 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:227 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:404 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:295 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:382 INFO  SearchCarsPage :53 - Verifying heading text. 'New Cars For Sale'
+2024-12-20 13:12:493 INFO  SearchCarsPage :59 - select make: 'Mitsubishi'
+2024-12-20 13:12:599 INFO  SearchCarsPage :80 - select location: 'Queensland'
+2024-12-20 13:12:705 INFO  SearchCarsPage :85 - select priceMin: '$20,000'
+2024-12-20 13:12:796 INFO  SearchCarsPage :90 - select priceMax: '$80,000'
+2024-12-20 13:12:79 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 13:12:155 INFO  SearchCarsResultPage :42 - actual result: '158 mitsubishis for sale in qld'
+2024-12-20 13:12:156 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Mitsubishi'
+2024-12-20 13:12:479 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:954 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:134 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:839 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:962 INFO  SearchCarsPage :53 - Verifying heading text. 'New Cars For Sale'
+2024-12-20 13:12:66 INFO  SearchCarsPage :59 - select make: 'Honda'
+2024-12-20 13:12:211 INFO  SearchCarsPage :80 - select location: 'Western Australia'
+2024-12-20 13:12:314 INFO  SearchCarsPage :85 - select priceMin: '$25,000'
+2024-12-20 13:12:398 INFO  SearchCarsPage :90 - select priceMax: '$90,000'
+2024-12-20 13:12:698 INFO  SearchCarsPage :95 - clicking on Find my next car button. 
+2024-12-20 13:12:755 INFO  SearchCarsResultPage :42 - actual result: '36 hondas for sale in wa'
+2024-12-20 13:12:755 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Honda'
+2024-12-20 13:12:30 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:928 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:99 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:298 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:322 INFO  FindDealersResultPage :73 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-20 13:12:557 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:995 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:227 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:350 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:371 INFO  FindDealersResultPage :73 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-20 13:12:507 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:511 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:787 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:820 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:842 INFO  FindDealersResultPage :74 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-20 13:12:969 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:883 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:125 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:506 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:548 INFO  FindDealersResultPage :74 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-20 13:12:410 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:163 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:392 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:85 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:319 INFO  FindDealersResultPage :74 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-20 13:12:746 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:686 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:967 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:391 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:429 INFO  FindDealersResultPage :74 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-20 13:12:103 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:480 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:743 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:971 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:63 INFO  FindDealersResultPage :74 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-20 13:12:592 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:237 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:515 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:597 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:668 INFO  FindDealersResultPage :74 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-20 13:12:751 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:626 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:904 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:752 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:822 INFO  FindDealersResultPage :74 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-20 13:12:321 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:71 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:301 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:364 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:708 INFO  FindDealersResultPage :74 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-20 13:12:516 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:240 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:507 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:55 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:94 INFO  FindDealersResultPage :74 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-20 13:12:265 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-20 13:12:571 INFO  HomePage :38 - verifying homepage url.
+2024-12-20 13:12:854 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-20 13:12:607 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-20 13:12:670 INFO  FindDealersResultPage :74 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2024-12-21 14:12:135 INFO  ManageBrowser :30 - launching chrome browser
+2024-12-21 14:12:359 INFO  HomePage :38 - verifying homepage url.
+2024-12-21 14:12:347 INFO  HomePage :47 - hover mouse to menu bar.
+2024-12-21 14:12:208 INFO  HomePage :60 - hover to submenu and click on element.
+2024-12-21 14:12:707 INFO  FindDealersResultPage :74 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
